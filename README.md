@@ -1,6 +1,6 @@
 # Isorogue
 
-Made for the 2017 7DRL by 23 (@polm) & chamotea. Download the release over [here](https://23.itch.io/isorogue).
+Made for the 2017 7DRL by 23 (@polm) & @chamotea. Download the release over [here](https://23.itch.io/isorogue).
 
 ## Controls
 

@@ -845,7 +845,7 @@ function love.keypressed(key)
   end
   --]]
 
-  if turn == 'player' then
+  if turn == 'player' and not gameover then
     local dir = nil
     if (key == "left")  then dir = 1 end
     if (key == "right") then dir = 2 end
